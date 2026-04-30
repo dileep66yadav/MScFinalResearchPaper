@@ -30,7 +30,7 @@ By analyzing vocal tone, pitch, and emotional signals, the system aims to enable
 
 ## 🖼️ Architecture Diagram  
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/thesis-arch.png)
 
 > 🔹 Replace with your actual diagram (recommended: draw.io / Excalidraw / Lucidchart)
 
