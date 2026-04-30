@@ -1,4 +1,4 @@
-# 🧠 Neurological Disorders Detection from Speech Emotions  
+## 🧠 Neurological Disorders Detection from Speech Emotions  
 ### 🎓 MSc Artificial Intelligence (Machine Learning) Thesis  
 **Liverpool John Moores University – Faculty of Engineering & Technology**
 
